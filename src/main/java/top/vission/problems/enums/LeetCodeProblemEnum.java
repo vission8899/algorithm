@@ -11,6 +11,7 @@ public enum LeetCodeProblemEnum {
     P21("21", "合并两个有序链表", "Merge Two Sorted Lists"),
     P26("26", "删除有序数组中的重复项", "Remove Duplicates From Sorted Array"),
     P48("48", "旋转图像", "Rotate Image"),
+    P49("49", "字母异位词分组", "Group Anagrams"),
     P54("54", "螺旋矩阵", "Spiral Matrix"),
     P73("73", "矩阵置零", "Set Matrix Zeroes"),
     P88("88", "合并两个有序数组", "Merge Sorted Array"),
