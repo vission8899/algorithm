@@ -23,6 +23,7 @@ public enum LeetCodeProblemEnum {
     P232("232", "用栈实现队列", "Implement Queue Using Stacks"),
     P242("242", "有效的字母异位词", "Valid Anagram"),
     P344("344", "反转字符串", "Reverse String"),
+    P347("347", "前 K 个高频元素", "Top K Frequent Elements"),
     P622("622", "设计循环队列", "Design Circular Queue");
 
     private final String id;
