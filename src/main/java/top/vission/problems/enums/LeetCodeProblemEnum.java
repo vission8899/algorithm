@@ -20,6 +20,7 @@ public enum LeetCodeProblemEnum {
     P150("150", "逆波兰表达式求值", "Evaluate Reverse Polish Notation"),
     P155("155", "最小栈", "Min Stack"),
     P206("206", "反转链表", "Reverse Linked List"),
+    P217("217", "存在重复元素", "Contains Duplicate"),
     P232("232", "用栈实现队列", "Implement Queue Using Stacks"),
     P242("242", "有效的字母异位词", "Valid Anagram"),
     P344("344", "反转字符串", "Reverse String"),
