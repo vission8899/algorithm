@@ -16,7 +16,7 @@ public class Main {
 //        for (LeetCodeProblemEnum value : LeetCodeProblemEnum.values()) {
 //            problemIds.add(value.getId());
 //        }
-        problemIds.add("217");
+        problemIds.add("349");
         problemRunTemplate(problemIds);
     }
 

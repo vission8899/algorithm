@@ -25,6 +25,7 @@ public enum LeetCodeProblemEnum {
     P242("242", "有效的字母异位词", "Valid Anagram"),
     P344("344", "反转字符串", "Reverse String"),
     P347("347", "前 K 个高频元素", "Top K Frequent Elements"),
+    P349("349", "两个数组的交集", "Intersection Of Two Arrays"),
     P622("622", "设计循环队列", "Design Circular Queue");
 
     private final String id;
