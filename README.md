@@ -1,4 +1,4 @@
-# algoeithm
+# algorithm
 
 LeetCode 题解仓库。基于一个反射驱动的题目执行框架，`main` 方法按题号批量运行题解并输出题目信息。
 
